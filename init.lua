@@ -1,0 +1,6 @@
+print("------------------------")
+print("A PORRA DO NEOVIM PORRA")
+print("------------------------")
+require('config.options')
+require('config.keybinds')
+require('config.lazy')
