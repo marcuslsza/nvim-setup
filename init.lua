@@ -1,6 +1,3 @@
-print("---------------")
-print("Neovim da silva")
-print("---------------")
 require('config.options')
 require('config.keybinds')
 require('config.lazy')
